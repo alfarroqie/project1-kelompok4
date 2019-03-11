@@ -6,7 +6,8 @@
 =RAND()
 ```
 
-2. RANDBETWEEN  
+1. RANDBETWEEN  
+
      Fungsi RANDBETWEEN adalah fungsi yang digunakan untuk mendapatkan nilai random pada range tertentu. Hasilnya berupa nilai integer.
 
 ```text

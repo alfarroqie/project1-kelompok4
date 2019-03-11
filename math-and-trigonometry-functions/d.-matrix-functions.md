@@ -6,27 +6,19 @@
 =MDETERM(range)
 ```
 
-2. MINVERS  
+1. MINVERS  
+
      Fungsi MINVERS adalah fungsi yang digunakan untuk mendapatkan nilai invers dari sekelompok data \(yang berbentuk seperti matriks\). Lagi-lagi, data ini harus berbentuk matriks persegi.
 
 ```text
 =MINVERS(range)
 ```
 
-3. MMULT  
+1. MMULT  
+
      Fungsi MMULT adalah fungsi yang digunakan untuk mencari hasil dari perkalian dua matriks. Syarat-syarat untuk melangsungkan perkalian matriks juga berlaku di fungsi ini.
 
 ```text
 =MMULT(range_matriks1;range_matriks2)
 ```
-
-
-
-
-
-
-
-
-
-
 

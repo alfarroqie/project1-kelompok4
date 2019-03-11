@@ -1,15 +1,16 @@
 # B. Basic Mathematical Operations
 
-
-
 1. SUM           Fungsi SUM adalah fungsi yang digunakan untuk menjumlahkan data-data dalam jumlah yang banyak sehingga lebih mudah dan cepat. Sintaksnya adalah :
 
 ```text
 =SUM(cell_awal:cell_akhir)
 ```
 
-2. PRODUCT  
-              Fungsi PRODUCT digunakan untuk mencari hasil dari perkalian dari sederetan bilangan. Bilangan yang dikalikan dapat berupa bilangan yang kita _entry-_kan atau bilangan yang ada dalam range yang kita cantumkan. Sintaksnya adalah : 
+1. PRODUCT  
+
+   ```text
+          Fungsi PRODUCT digunakan untuk mencari hasil dari perkalian dari sederetan bilangan. Bilangan yang dikalikan dapat berupa bilangan yang kita _entry-_kan atau bilangan yang ada dalam range yang kita cantumkan. Sintaksnya adalah : 
+   ```
 
 ```text
 =PRODUCT(num1,num2,...,num3)
@@ -19,36 +20,51 @@
 =PRODUCT(cell_awal:cell_akhir)
 ```
 
-3. POWER  
-              Fungsi POWER digunakan untuk mendapatkan hasil dari bilangan yang akan dipangkatkan.
+1. POWER  
+
+   ```text
+          Fungsi POWER digunakan untuk mendapatkan hasil dari bilangan yang akan dipangkatkan.
+   ```
 
 ```text
 =POWER(number, power)
 ```
 
-4. SQRT  
-             Fungsi SQRT digunakan untuk mendapatkan hasil dari bilangan yang akan diakarkan.
+1. SQRT  
+
+   ```text
+         Fungsi SQRT digunakan untuk mendapatkan hasil dari bilangan yang akan diakarkan.
+   ```
 
 ```text
 =SQRT(number) atau =SQRT(cell)
 ```
 
-5. QUOTIENT  
-              Fungsi QUOTIENT digunakan untuk mendapatkan hasil integer dari sebuah operasi pembagian. 
+1. QUOTIENT  
+
+   ```text
+          Fungsi QUOTIENT digunakan untuk mendapatkan hasil integer dari sebuah operasi pembagian. 
+   ```
 
 ```text
 =QUOTIENT(pembilang, penyebut)
 ```
 
-6. MOD  
-             Fungsi MOD digunakan untuk mendapatkan sisa hasil bagi integer dari sebuah operasi pembagian.
+1. MOD  
+
+   ```text
+         Fungsi MOD digunakan untuk mendapatkan sisa hasil bagi integer dari sebuah operasi pembagian.
+   ```
 
 ```text
 =MOD(pembilang, penyebut)
 ```
 
-7. SUBTOTAL  
-              Fungsi SUBTOTAL adalah fungsi yang mencakup beberapa fungsi matematik lainnya yaitu : AVERAGE, COUNTA, COUNT, MAX, MIN, PRODUCT,  STDEV.S, STDEV.P, SUM, VAR.S, dan VAR.P. Setiap fungsi yang dicakup, memiliki sebuah nomor identitas untuk menyatakan fungsinya masing-masing. Berikut adalah tabel nomor identitas fungsi yang dicakup subtotal.
+1. SUBTOTAL  
+
+   ```text
+          Fungsi SUBTOTAL adalah fungsi yang mencakup beberapa fungsi matematik lainnya yaitu : AVERAGE, COUNTA, COUNT, MAX, MIN, PRODUCT,  STDEV.S, STDEV.P, SUM, VAR.S, dan VAR.P. Setiap fungsi yang dicakup, memiliki sebuah nomor identitas untuk menyatakan fungsinya masing-masing. Berikut adalah tabel nomor identitas fungsi yang dicakup subtotal.
+   ```
 
 | Nama Fungsi | Nomor Identitas | Fungsi |
 | :--- | :--- | :--- |
@@ -69,6 +85,4 @@ Sintaksnya adalah :
 ```text
 =SUBTOTAL(nomor_identitas;ref1;ref2;...;refn)
 ```
-
-
 

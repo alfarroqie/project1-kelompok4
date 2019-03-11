@@ -6,5 +6,5 @@
 =SUMIF(range_data;kriteria;range_jml)
 ```
 
-2. SUMIFS
+1. SUMIFS
 

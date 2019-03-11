@@ -4,8 +4,7 @@
 * [Logical Function](logical-function.md)
 * [Statistical Function](statistical-function.md)
 * [Untitled](untitled-2.md)
-
-* [Built-in Excel Functions](README.md)
+* [Built-in Excel Functions](readme-1.md)
 * [Math and Trigonometry Functions](math-and-trigonometry-functions/README.md)
   * [A. Basic Numeric Information](math-and-trigonometry-functions/a.-basic-numeric-information.md)
   * [B. Basic Mathematical Operations](math-and-trigonometry-functions/b.-basic-mathematical-operations.md)
@@ -21,8 +20,7 @@
   * [E. Cutting Up & Piecing Together Text Strings](text-functions/e.-cutting-up-and-piecing-together-text-strings.md)
   * [F. Information Functions](text-functions/f.-information-functions.md)
   * [G. Replacing / Substituting Parts of a Text String](text-functions/g.-replacing-substituting-parts-of-a-text-string.md)
-  
-  * [Built-In-Function di Microsoft Excel](README.md)
+  * [Built-In-Function di Microsoft Excel](text-functions/readme.md)
 * [LOOKUP and Reference Funtion](lookup-and-reference-funtion.md)
 * [ROUNDUP and ROUNDDOWN Function](roundup-and-rounddown-function.md)
 * [CUBE Functions](cube-functions.md)
